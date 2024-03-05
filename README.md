@@ -14,3 +14,10 @@ Me apasiona el conocimiento, llevado al grado de ser un hobbie para mi. Es por e
 La filosofía, el modo de vida que siguen los "takumi" me inspira y me guía en mi trabajo. Soy un fiel creyente de la idea de no poder tomar atajos, sino que es necesario dedicarle esfuerzo y tiempo a todo lo que realizamos, en especial en eso que nos apasiona.
 
 Puedes conocer mas de mis en:
+
+## Mis habilidades:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,py,sklearn,postgres,html,css,latex,md,ai,ps" />
+  </a>
+</p>
